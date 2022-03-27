@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 6eccdf3e-c9a1-e66b-bcf3-8b40a453109c
 resourcetype: Document
 title: MIT21H_101F10_syllf08.pdf
 uid: 6e0b88ef-a4cb-544d-62f0-ed1c8ac7caad

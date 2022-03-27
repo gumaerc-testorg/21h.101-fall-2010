@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 77e00bfd-acda-2fdd-333b-5676c1cf2308
 resourcetype: Document
 title: MIT21H_101F10_jackson.pdf
 uid: 0dfe94e6-553b-69f1-0bce-6d42b5bae0fe

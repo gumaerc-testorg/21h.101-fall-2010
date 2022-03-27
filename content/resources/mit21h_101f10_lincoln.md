@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 77e00bfd-acda-2fdd-333b-5676c1cf2308
 resourcetype: Document
 title: MIT21H_101F10_lincoln.pdf
 uid: d9864e8b-0294-2eec-576c-8539f96f5bf2
