@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains citations for the course texts and a list of readings
+  for each week.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 77e00bfd-acda-2fdd-333b-5676c1cf2308
 ---
@@ -41,7 +46,7 @@ READINGS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-John Dane's Family Tree (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit21h_101f10_dane_tree))
+John Dane's Family Tree ({{% resource_link 78226afa-33a4-2754-6410-9306eaec2510 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ The "Age of Jackson"
 
 _Inventing America_. Chapter 11, pp. 312-339.
 
-Andrew Jackson's Presidential Pronouncements: Vetoes of the Maysville Road and Bank Rechartering Acts, and his proclamation on Nullification. ([PDF]({{< baseurl >}}/resources/mit21h_101f10_jackson))
+Andrew Jackson's Presidential Pronouncements: Vetoes of the Maysville Road and Bank Rechartering Acts, and his proclamation on Nullification. ({{% resource_link 0dfe94e6-553b-69f1-0bce-6d42b5bae0fe "PDF" %}})
 
 
 {{< tdclose >}}
@@ -300,7 +305,7 @@ Davis, Jefferson. "[Farewell Speech](https://jeffersondavis.rice.edu/archives/do
 
 Lincoln, Abraham. "[First Inaugural Address](http://showcase.netins.net/web/creative/lincoln/speeches/1inaug.htm)." Washington DC: March 4, 1861.
 
-Abraham Lincoln on Race and Slavery ([PDF]({{< baseurl >}}/resources/mit21h_101f10_lincoln))
+Abraham Lincoln on Race and Slavery ({{% resource_link d9864e8b-0294-2eec-576c-8539f96f5bf2 "PDF" %}})
 
 
 {{< tdclose >}}
