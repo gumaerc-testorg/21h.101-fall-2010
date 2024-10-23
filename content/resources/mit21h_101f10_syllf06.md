@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to syllabus 2006.
-file: /courses/21h-101-american-history-to-1865-fall-2010/7bf1e00e7aaae00645f2f91938ba78f3_MIT21H_101F10_syllf06.pdf
+file: /ol-ocw-studio-app/courses/21h-101-american-history-to-1865-fall-2010/7bf1e00e7aaae00645f2f91938ba78f3_MIT21H_101F10_syllf06.pdf
 file_size: 47642
 file_type: application/pdf
 learning_resource_types: []
