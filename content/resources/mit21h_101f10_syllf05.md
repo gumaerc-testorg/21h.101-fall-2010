@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to 2005.
-file: /ol-ocw-studio-app/courses/21h-101-american-history-to-1865-fall-2010/96e0062d4ccd5615e5545ce55c3061c3_MIT21H_101F10_syllf05.pdf
+file: /courses/21h-101-american-history-to-1865-fall-2010/96e0062d4ccd5615e5545ce55c3061c3_MIT21H_101F10_syllf05.pdf
 file_size: 45812
 file_type: application/pdf
 learning_resource_types: []
