@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to lincoln.
-file: /ol-ocw-studio-app/courses/21h-101-american-history-to-1865-fall-2010/d9864e8b02942eec576c8539f96f5bf2_MIT21H_101F10_lincoln.pdf
+file: /courses/21h-101-american-history-to-1865-fall-2010/d9864e8b02942eec576c8539f96f5bf2_MIT21H_101F10_lincoln.pdf
 file_size: 612276
 file_type: application/pdf
 learning_resource_types:
