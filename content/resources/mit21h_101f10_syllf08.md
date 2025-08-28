@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to syllabus 2008.
-file: /courses/21h-101-american-history-to-1865-fall-2010/6e0b88efa4cb544d62f0ed1c8ac7caad_MIT21H_101F10_syllf08.pdf
+file: /ol-ocw-studio-app/courses/21h-101-american-history-to-1865-fall-2010/6e0b88efa4cb544d62f0ed1c8ac7caad_MIT21H_101F10_syllf08.pdf
 file_size: 58814
 file_type: application/pdf
 learning_resource_types: []
